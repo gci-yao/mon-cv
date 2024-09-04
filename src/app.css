@@ -1,0 +1,9 @@
+@media screen and (max-width:750px) {
+    .comoponent {
+        flex-direction: column;
+    }
+}
+
+.comoponent {
+    width: 70%;
+}
